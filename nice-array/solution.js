@@ -17,4 +17,5 @@ function isNice(arr){
       }
     }
     return true;
+    
   }
